@@ -1,0 +1,151 @@
+
+body{
+  font-family: Andale Mono, sans-serif;
+  margin:auto 0;
+  height: 100%;
+}
+
+header{
+  display:flex;
+  justify-content:space-evenly;
+  border-bottom: solid 1px #000000;
+  background-color:#00661f;
+}
+
+
+.d1{
+text-align: left;
+margin-bottom: 40px;
+color: white;
+padding-top:20px;
+}
+
+.d2{
+text-align: right;
+margin-bottom: 40px;
+color: white;
+padding-top:10px;
+}
+
+
+.nome{ 
+  font-size: 40px;
+}
+
+.info{
+font-size: 20px;
+}
+
+.dh1{
+  font-size: 20px;
+}
+
+.insta{
+  font-size: 20px;
+}
+
+.baixo{
+display:flex;
+justify-content:space-evenly;
+margin-top: 20px;
+margin-left: 90px;
+margin-right: 90px;
+}
+
+.exp{
+border-bottom: solid 1px #000000;
+color: #00661f;
+text-shadow: 1px 1px black;
+}
+
+.titulo2{
+  border-bottom: solid 1px #000000;
+  color: #00661f;
+  text-shadow: 1px 1px black;
+}
+
+.divleft{
+  border-right: solid 1px #000000;
+  padding-right:250px;
+  max-width: 300px;
+  padding-left: 75px;
+  padding-bottom: 30px;
+}
+.partebaixo{
+
+  padding-top:10px;
+}
+
+.li1{
+  font-size:17px;
+}
+
+.li2{
+  font-size: 17px;
+}
+
+.li3{
+  font-size:17px;
+}
+
+.divright{
+  padding-top: 100px;
+  max-width: 340px;
+  padding-right: 50px;
+}
+
+.titulo1{
+  border-bottom: solid 1px #000000;
+  color: #00661f;
+  text-shadow: 1px 1px black;
+}
+
+.sobret{
+ font-size: 15px;
+  
+}
+
+footer{
+  border-top: solid 1px #000000;
+  margin-top: 40px;
+  background-color: #00661f;
+  color: #00661f;
+  padding: 80px;
+  justify-content:space-evenly;
+}
+
+.git{
+  padding-left: 100%;
+  cursor:pointer;
+}
+
+img{
+  height: 80px;
+  width:80px;
+}
+
+img:hover{
+   transform: scale(1.1);
+   transition: all 0.5s;
+   
+}
+
+.linked{
+  text-align:right;
+  cursor:pointer;
+  padding-right: 40%;
+   }
+
+.f10{
+  justify-content:space-evenly;
+  display:flex;
+}
+
+.f11{
+  text-align:left;
+  padding-left: 18%
+}
+
+.f12{
+ padding-right: 22%;
+}
